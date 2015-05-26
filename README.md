@@ -34,3 +34,19 @@ This CLI can be run from the command line on the server, or via a server CRON.
 
 ###Cron
 This process should be called by a cron, and triggers the subscriber process. It should be called on some interval appropriate for the volume of data in the stream.
+
+## Contributing
+
+Anyone and everyone is welcome to contribute
+
+## License
+
+### Major components:
+
+* PHP: GNU General Public License (GPL),
+* Predis: MIT License
+* Redis: BSD Licence
+
+### Everything else:
+
+The Unlicensed (aka: public domain)
