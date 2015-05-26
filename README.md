@@ -2,7 +2,7 @@
 
 stream-daemon is a reliable queue system for collecting data from a stream, for example an  Internet or Unix domain socket connection.
 
-In this repository, we are using fictional twitter stream which provides access to streamed data from twitter for tweets using the names of NFL football teams. 
+In this repository, we are using fictional twitter stream which provides access to streamed data from twitter for tweets using the hashtags of NFL football teams. 
 
 The use-case for this stream daemon could be that you are consuming from a stream of data with high reliability, and suffer minimal data loss if any of the processes in the system fail by using a simple messaging queue. 
 
