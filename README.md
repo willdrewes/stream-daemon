@@ -26,9 +26,9 @@ The following commands are available:
 ####collect: 
 	start collection
 ####stop: 
-  stop collection
+  	stop collection
 ####running: 
-  check if process is running
+  	check if process is running
 
 This CLI can be run from the command line on the server, or via a server CRON. 
 
